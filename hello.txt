@@ -8,4 +8,4 @@ hello linhao, hello git!
 hello linhao, hello git!
 hello linhao, hello git!
 hello linhao, hello git!    
-hello linhao, hello git!    hot-fix test
+hello linhao, hello git!    h-fix test
